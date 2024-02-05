@@ -647,7 +647,7 @@ echo 1;
 	表单域：形形色色的框
 	 表单按钮：告诉别人我填完了
 
-<form action="1.html" method="get">
+```<form action="1.html" method="get">
 
 <form>
          action 数据传到那里
@@ -705,3 +705,5 @@ select 字段名
  = 比较
  select * from admin where username = 'admin' and assword ='123456'
 
+
+```
