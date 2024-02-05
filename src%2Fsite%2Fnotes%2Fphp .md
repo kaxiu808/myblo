@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/php/","dgPassFrontmatter":true}
 ---
 
+
+
+
 # 了解php
 
 ## 章节1： 了解PHP
