@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/php1/","dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/php1/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
-
 
 
 
