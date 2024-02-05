@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/php/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"php","dg-php":true,"permalink":"/php/","dgPassFrontmatter":true}
 ---
 
+# 🦄了解php
 
-
-# 了解php
 
 ## 章节1： 了解PHP
 
