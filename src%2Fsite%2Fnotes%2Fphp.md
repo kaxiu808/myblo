@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"php","dg-php":true,"permalink":"/php/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-php":true,"permalink":"/php/","dgPassFrontmatter":true}
 ---
 
 # 🦄了解php
