@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-php: true
+{"dg-publish":true,"dg-php":true,"permalink":"/php/","dgPassFrontmatter":true}
 ---
+
 # 🦄了解php
 
 
