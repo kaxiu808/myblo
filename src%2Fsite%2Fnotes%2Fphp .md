@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"title":"🍇php","permalink":"/php/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"title":"🍇home","permalink":"/php/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # 了解php
