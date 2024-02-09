@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习区(未掌握)/preg_match/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-preg_match":true,"permalink":"/学习区(未掌握)/preg_match/","dgPassFrontmatter":true}
 ---
 
 一、 preg_match()函数的定义
