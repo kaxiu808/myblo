@@ -52,14 +52,13 @@
    第二页： a:  //p/span/div/a
    
    图片版
+![与逻辑](https://gitlab.com/minika1/Pic/-/raw/main/pictures/2024/03/7_18_26_5_%E4%B8%8E%E9%80%BB%E8%BE%91.png)
 
-()
 如果第一页有用，第二页变动得化，至少有一个逻辑是可以用的。  它们都是对 a标签的提取。
 
    这里用到的是或逻辑 ， 符号为 ` | ` ,  意思是只要有一个逻辑表达式有用，都可以，上述的案例是两个逻辑都有用。  
-   
-   
-   
+  
+  
    # 处理逻辑    用`|` 符号     
  
 
@@ -82,5 +81,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzE3MTQyOF19
+eyJoaXN0b3J5IjpbMTE5MTI5NjIyXX0=
 -->
