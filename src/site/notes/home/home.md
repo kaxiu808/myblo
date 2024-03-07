@@ -47,7 +47,8 @@
  cities = tree.xpath('//div[@class="bottom"]/ul/li/a/text() | //div[@class="bottom"]/ul/div[2]/li/a/text()')
   ```
    第一页 ：a :  //div/p/a
-   第二页： a:  //p/span/d
+   第二页： a:  //p/span/div/a
+   这里用到的是或逻辑 ， 符号为 ` | ` ,  ye  
    
    
    # 处理逻辑
@@ -72,5 +73,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk3MTI0MzNdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjc2NzMwMDldfQ==
 -->
