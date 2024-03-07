@@ -39,6 +39,8 @@
 
 ## 灵感
    * 要想处理大量的信息，必须从逻辑上动手*
+   案例  这是从xpath 里面找到的。
+   
    
    # 处理逻辑
  
@@ -62,5 +64,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNzMyNDY4XX0=
+eyJoaXN0b3J5IjpbMTYxMDM2NTQxNF19
 -->
