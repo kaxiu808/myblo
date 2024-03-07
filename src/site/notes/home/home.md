@@ -38,7 +38,8 @@
 # 信息输入
 
 ## 灵感
-   * 要想处理da'l
+   * 要想处理大量的信息，必须从逻辑上动手*
+   
    # 处理逻辑
  
 
@@ -61,5 +62,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQzNzQyNTVdfQ==
+eyJoaXN0b3J5IjpbNDUzNzMyNDY4XX0=
 -->
