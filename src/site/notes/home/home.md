@@ -46,8 +46,8 @@
  
  cities = tree.xpath('//div[@class="bottom"]/ul/li/a/text() | //div[@class="bottom"]/ul/div[2]/li/a/text()')
   ```
-  
-   
+   第一页 ：a :  //div/p/a
+   第二页： a:  //p/span/d
    
    
    # 处理逻辑
@@ -72,5 +72,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjgyNjk3OV19
+eyJoaXN0b3J5IjpbLTEwMjk3MTI0MzNdfQ==
 -->
