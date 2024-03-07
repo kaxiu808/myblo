@@ -39,7 +39,7 @@
 
 ## 灵感
    * 要想处理大量的信息，必须从逻辑上动手*
-   案例  这是从xpath 里面找到的。如下：
+   案例  这是从xpath逻辑 里面找到的。如下：
    ```python
  # hot_cities = tree.xpath('//div[@class="bottom"]/ul/li/a/text()')  
  # all_cities = tree.xpath('//div[@class="bottom"]/ul/div[2]/li/a/text()')
@@ -50,8 +50,9 @@
    第二页： a:  //p/span/div/a
    这里用到的是或逻辑 ， 符号为 ` | ` ,  意思是只要有一个逻辑表达式有用，都可以，上述的案例是两个逻辑都有用。  
    
+   如果第一页有用，
    
-   # 处理逻辑
+   # 处理逻辑    用`|` 符号     
  
 
 
@@ -73,5 +74,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDczMjMxXX0=
+eyJoaXN0b3J5IjpbOTY5Nzg5NDA2XX0=
 -->
