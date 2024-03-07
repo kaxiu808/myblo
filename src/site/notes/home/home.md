@@ -45,8 +45,8 @@
  # all_cities = tree.xpath('//div[@class="bottom"]/ul/div[2]/li/a/text()')
  
  cities = tree.xpath('//div[@class="bottom"]/ul/li/a/text() | //div[@class="bottom"]/ul/div[2]/li/a/text()')
-  
   ```
+  
    
    
    
@@ -72,5 +72,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ4MjQxMjFdfQ==
+eyJoaXN0b3J5IjpbMTkwNjgyNjk3OV19
 -->
