@@ -48,7 +48,7 @@
   ```
    第一页 ：a :  //div/p/a
    第二页： a:  //p/span/div/a
-   这里用到的是或逻辑 ， 符号为 ` | ` ,  意思是只要有一个逻辑表达式有用，  
+   这里用到的是或逻辑 ， 符号为 ` | ` ,  意思是只要有一个逻辑表达式有用，都可以，上述的案例是两个逻辑都有用。  
    
    
    # 处理逻辑
@@ -73,5 +73,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTUwMjM3Nl19
+eyJoaXN0b3J5IjpbLTQ0MDczMjMxXX0=
 -->
