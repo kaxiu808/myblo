@@ -50,7 +50,7 @@
    第二页： a:  //p/span/div/a
    这里用到的是或逻辑 ， 符号为 ` | ` ,  意思是只要有一个逻辑表达式有用，都可以，上述的案例是两个逻辑都有用。  
    
-   如果第一页有用，
+   如果第一页有用，第二页变动得化，至少有一个逻辑是可以用的。  它们都是对 a标签的提取
    
    # 处理逻辑    用`|` 符号     
  
@@ -74,5 +74,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5Nzg5NDA2XX0=
+eyJoaXN0b3J5IjpbLTEzNTU2Njg4ODRdfQ==
 -->
